@@ -25,7 +25,8 @@ The script also converts all audio files into mp3s unless they are over 10mb or 
 `ffmpeg` (To convert file into MP3)
 
 ### Samply link requirements
-```pip install playwright``` (headless browser automation)
+```pip install playwright``` 
+(headless browser automation)
 ```playwright install chromium```
 
 
